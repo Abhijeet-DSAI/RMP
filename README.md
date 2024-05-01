@@ -6,7 +6,7 @@ Path finding algorithms plays a vital role in our daily life such as packets in 
 
 
 # Overview
-This is a  project on visualizing path finding algorithms i.e BFS, DFS, Dikstra’s , Greedy search. This app is entirely built in react and below is the how the interface looks like. Here arrow Structure is Starting node and Circled Structure is the end node. You can see the various algorithms below to visualize.
+This is a  project on visualizing path finding algorithms i.e BFS, DFS, Dikstra’s , Greedy search. Here path finded by path finding algorithms are denoted in yellow colour. This app is entirely built in react and below is the how the interface looks like. Here arrow Structure is Starting node and Circled Structure is the end node. You can see the various algorithms below to visualize.
 
 ![image](https://github.com/Abhijeet-DSAI/RMP/assets/113516430/b37c6427-df68-4ff3-8afc-d125d086983b)
 ## Breadth First Search
